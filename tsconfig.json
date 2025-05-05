@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "moduleDetection": "force",
+    "allowJs": false,
+    "strict": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit":true,
+    "allowImportingTsExtensions":true,
+  },
+  "include": ["*.ts", "*.js"]
+}
