@@ -1,6 +1,4 @@
-Here’s a basic README.md you can use for GitHub based on the conversation and image:
 
-⸻
 
 Practice Bot for Discord
 
